@@ -140,11 +140,6 @@ PRODUCT_PACKAGES += \
     libemoji \
     Terminal
 
-# Screen recorder
-PRODUCT_PACKAGES += \
-    ScreenRecorder \
-    libscreenrecorder
-
 # Custom CM packages
 PRODUCT_PACKAGES += \
     Trebuchet \
